@@ -1,10 +1,10 @@
 [
   {
     "id": "0",
-    "name": "Фитнес неделя",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_fitness.webp”",
+    "name": "Здоровый старт",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_fitness.webp",
     "discount": 10.0,
-    "description": "Мы заботимся о вашем здоровье, поэтому товары с фокусом на здоровое питания идут со скидкой!",
+    "description": "Скидка 10% на продукты для вашей энергии! Выбирайте полезные перекусы, витаминные десерты и блюда для активного дня. Здоровье начинается здесь!",
     "type": "product",
     "products": [
       "0",
@@ -15,18 +15,18 @@
   },
   {
     "id": "1",
-    "name": "Купи 2 - получишь скидку",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_2.webp”",
+    "name": "Двойная выгода",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_2.webp",
     "discount": 5.0,
-    "description": "Если купишь сразу 2 товара, то получишь приятную скидку!",
+    "description": "Покупайте два продукта — экономьте 5%! Идеально для тех, кто любит пробовать новое или делиться вкусом с близкими. Два удовольствия — одна цена!",
     "type": "price"
   },
   {
     "id": "2",
-    "name": "Слодкоежка",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_choko.webp”",
+    "name": "Шоколадное настроение",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_choko.webp",
     "discount": 7.0,
-    "description": "Скидка для любителей шоколада. Порадуйте себя и своих детей шоколадными тортами и печеньями со скидкой! Покупай шоколадные товары и получи скидку 7%!",
+    "description": "7% скидка на всё, что создано для сладкой жизни! Шоколадные десерты, хрустящее печенье, воздушные торты — идеально для семейных чаепитий или подарка себе.",
     "type": "product",
     "products": [
       "2",
@@ -36,10 +36,10 @@
   },
   {
     "id": "3",
-    "name": "В компании всегда дешевле",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_company.webp”",
+    "name": "В компании - больше экономия",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_company.webp",
     "discount": 15.0,
-    "description": "Закажи на сумму более 3000 рублей и получи скидку 15%!",
+    "description": "Чем больше покупаете — тем больше экономите! При заказе от 3000 ₽ — скидка 15%. Идеально для праздников, вечеринок или просто запастись любимым вкусом!",
     "type": "price"
   }
 ]
