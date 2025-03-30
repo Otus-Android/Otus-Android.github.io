@@ -2,7 +2,7 @@
   {
     "id": "0",
     "name": "Фитнес неделя",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_fitness.jpg",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_fitness.webp”",
     "discount": 10.0,
     "description": "Мы заботимся о вашем здоровье, поэтому товары с фокусом на здоровое питания идут со скидкой!",
     "type": "product",
@@ -16,7 +16,7 @@
   {
     "id": "1",
     "name": "Купи 2 - получишь скидку",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_2.jpg",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_2.webp”",
     "discount": 5.0,
     "description": "Если купишь сразу 2 товара, то получишь приятную скидку!",
     "type": "price"
@@ -24,7 +24,7 @@
   {
     "id": "2",
     "name": "Слодкоежка",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_choko.jpg",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_choko.webp”",
     "discount": 7.0,
     "description": "Скидка для любителей шоколада. Порадуйте себя и своих детей шоколадными тортами и печеньями со скидкой! Покупай шоколадные товары и получи скидку 7%!",
     "type": "product",
@@ -37,7 +37,7 @@
   {
     "id": "3",
     "name": "В компании всегда дешевле",
-    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_company.jpg",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/promo_company.webp”",
     "discount": 15.0,
     "description": "Закажи на сумму более 3000 рублей и получи скидку 15%!",
     "type": "price"
