@@ -52,5 +52,191 @@
     "name": "Брускетта со свеклой",
     "image": "https://otus-android.github.io/static/compose-hw1/img/product09.webp",
     "price": 310.0
+  },
+  {
+    "id": "9",
+    "name": "Карамельный капкейк",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product10.webp",
+    "price": 190.0
+  },
+  {
+    "id": "10",
+    "name": "Матча чизкейк",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product11.webp",
+    "price": 310.0
+  },
+  {
+    "id": "11",
+    "name": "Смузи боул «Тропики»",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product12.webp",
+    "price": 360.0
+  },
+  {
+    "id": "12",
+    "name": "Йогурт с гранолой и манго",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product13.webp",
+    "price": 270.0
+  },
+  {
+    "id": "13",
+    "name": "Панкейки на рисовой муке с тофу",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product14.webp",
+    "price": 320.0
+  },
+  {
+    "id": "14",
+    "name": "Тост с лососем и свекольным хумусом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product15.webp",
+    "price": 390.0
+  },
+  {
+    "id": "15",
+    "name": "Крафтовый лимонад «Юдзу-Базилик»",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product16.webp",
+    "price": 210.0
+  },
+  {
+    "id": "16",
+    "name": "Тартин с козьим сыром и карамелизированной грушей",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product17.webp",
+    "price": 350.0
+  },
+  {
+    "id": "17",
+    "name": "Смузи боул «Тропики»",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product18.webp",
+    "price": 360.0
+  },
+  {
+    "id": "18",
+    "name": "Боул с киноа, эдамаме и соусом юдзу",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product19.webp",
+    "price": 410.0
+  },
+  {
+    "id": "19",
+    "name": "Тост с трюфельным маслом и яйцом пашот",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product20.webp",
+    "price": 370.0
+  },
+  {
+    "id": "20",
+    "name": "Раф с халвой и морской солью",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product21.webp",
+    "price": 250.0
+  },
+  {
+    "id": "21",
+    "name": "Холодный брют-латте с тоником",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product22.webp",
+    "price": 240.0
+  },
+  {
+    "id": "22",
+    "name": "Эспрессо-тоник с грейпфрутом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product23.webp",
+    "price": 230.0
+  },
+  {
+    "id": "23",
+    "name": "Молочный шейк с фисташкой и кардамоном",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product24.webp",
+    "price": 290.0
+  },
+  {
+    "id": "24",
+    "name": "Матча-латте на овсяном молоке с сиропом финика",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product25.webp",
+    "price": 270.0
+  },
+  {
+    "id": "25",
+    "name": "Индийский чай масала на овсяном молоке",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product26.webp",
+    "price": 260.0
+  },
+  {
+    "id": "26",
+    "name": "Вьетнамский кофе с кокосовым кремом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product27.webp",
+    "price": 280.0
+  },
+  {
+    "id": "27",
+    "name": "Мексиканское какао с чили и корицей",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product28.webp",
+    "price": 270.0
+  },
+  {
+    "id": "28",
+    "name": "Турецкий кофе с кардамоном и мёдом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product29.webp",
+    "price": 250.0
+  },
+  {
+    "id": "29",
+    "name": "Бразильский мате с маракуйей",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product30.webp",
+    "price": 260.0
+  },
+  {
+    "id": "30",
+    "name": "Японский юдзу-тоник с матча пенкой",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product31.webp",
+    "price": 240.0
+  },
+  {
+    "id": "31",
+    "name": "Корейский сладкий латте «Дальгона»",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product32.webp",
+    "price": 270.0
+  },
+  {
+    "id": "32",
+    "name": "Индонезийский латте с пальмовым сахаром и кокосом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product33.webp",
+    "price": 280.0
+  },
+  {
+    "id": "33",
+    "name": "Итальянское панна-котта с базиликом и клубникой",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product34.webp",
+    "price": 370.0
+  },
+  {
+    "id": "34",
+    "name": "Французский тарт татен с розмарином и морской солью",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product35.webp",
+    "price": 420.0
+  },
+  {
+    "id": "35",
+    "name": "Кубинский ромовый кекс с лаймом и тростниковым сиропом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product36.webp",
+    "price": 390.0
+  },
+  {
+    "id": "36",
+    "name": "Грузинский чурчхела в шоколаде с грецким орехом",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product37.webp",
+    "price": 340.0
+  },
+  {
+    "id": "37",
+    "name": "Ливанский халва-чизкейк с тахини и финиками",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product38.webp",
+    "price": 430.0
+  },
+  {
+    "id": "38",
+    "name": "Исландский скир с медом, лавандой и облепихой",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product39.webp",
+    "price": 360.0
+  },
+  {
+    "id": "39",
+    "name": "Эфиопский торт с кофе и инжиром",
+    "image": "https://otus-android.github.io/static/compose-hw1/img/product40.webp",
+    "price": 440.0
   }
 ]
